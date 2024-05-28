@@ -86,6 +86,9 @@ Feel free to explore the repository, and don't hesitate to reach out if you have
 Happy Coding!
 
 Kabir Chaturvedi
+
 [kabirschaturvedi@gmail.com](mailto:kabirschaturvedi@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/kabir-chaturvedi)
+
 [GitHub](https://github.com/kabirchaturvedi)
