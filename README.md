@@ -47,22 +47,38 @@ The dataset contains information about customer demographics, account informatio
 - **TotalCharges:** Total charges.
 - **Churn:** Whether the customer churned.
 
-## 5. Results
-The AdaBoost classifier achieved the highest performance with an 89% F1-score and 83% accuracy. The model effectively identifies customers likely to churn, enabling the company to take proactive measures to retain them.
+## 5. EDA Visualizations
+  ### 1)
+  <img width="993" alt="image" src="https://github.com/kabirchaturvedi/Telco-Customer-Churn-Analysis-/assets/75251353/11a9a046-7b75-4a3e-85ab-c320de00c228">
 
-## 6. Future Enhancements
+  ### 2)
+  <img width="994" alt="image" src="https://github.com/kabirchaturvedi/Telco-Customer-Churn-Analysis-/assets/75251353/98c84867-245e-4265-bd7a-f6097cf5aab0">
+
+
+
+## 6. Results
+The AdaBoost classifier achieved the highest performance with an 89% F1-score and 83% accuracy. The model effectively identifies customers likely to churn, enabling the company to take proactive measures to retain them.
+  ### 1) Feature Importance as Determined by the Model
+  ![image](https://github.com/kabirchaturvedi/Telco-Customer-Churn-Analysis-/assets/75251353/33a6f8b4-c37c-442a-8ed8-fe154d79d98d)
+
+
+  ### 2) Confusion Matrix of the AdaBoost Model
+  <img width="361" alt="image" src="https://github.com/kabirchaturvedi/Telco-Customer-Churn-Analysis-/assets/75251353/7a8e9361-95d1-45f6-bef0-d15b73602eeb">
+
+
+## 7. Future Enhancements
 - **Feature Expansion:** Incorporating additional features such as customer interactions and service feedback.
 - **Model Improvement:** Experimenting with other advanced machine learning techniques and hyperparameter tuning.
 - **Deployment:** Developing a web application for real-time churn prediction.
 
-## 7. Conclusion
+## 8. Conclusion
 This project demonstrates the application of supervised machine learning techniques to predict customer churn. The insights gained can help telecommunications companies improve customer retention and reduce churn rates.
 
-## 8. Files in Repository
+## 9. Files in Repository
 - **TELCO_CHURN_ANALYSIS_SupervisedLearning_Kabir_Chaturvedi.ipynb:** Jupyter notebook with the complete analysis and model building process.
 - **Telco_customer_churn.csv:** Dataset used for the analysis.
 
-## 9. Acknowledgments
+## 10. Acknowledgments
 I thank my mentors and peers for their valuable feedback and support throughout this project.
 
 Feel free to explore the repository, and don't hesitate to reach out if you have any questions or suggestions. Enjoy exploring the Telco Customer Churn Analysis project!
