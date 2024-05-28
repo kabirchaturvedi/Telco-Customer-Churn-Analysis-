@@ -1,5 +1,3 @@
-## README for GitHub Repository: Telco Customer Churn Analysis
-
 # Telco Customer Churn Analysis
 
 Welcome to my GitHub repository for the Telco Customer Churn Analysis project. This project aims to predict customer churn in a telecommunications company using supervised machine learning techniques.
